@@ -5,7 +5,7 @@ import { Text } from '../../components';
 
 export const Container = styled.aside`
   background-color: ${({ theme: { colors } }) => colors.background};
-  width: 460px;
+  width: 560px;
   height: 100vh;
   overflow-y: scroll;
 `;
@@ -20,6 +20,7 @@ export const Search = styled.section`
 
 export const Logo = styled.img`
   margin: 15px;
+  width: 50%;
 `;
 
 export const Title = styled(Text)`
