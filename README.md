@@ -1,8 +1,5 @@
-<h2 align="center">
-    <img width='250px' height='125px' alt="logo restaurant finder" title="#logo" src="src/assets/logo2.png" />
-</h2>
 
-# Poké Store
+# Restaurant Finder
 
 👉 **Veja o App em funcionamento**: https://restaurant-finder-mike.netlify.app/
 
