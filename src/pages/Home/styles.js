@@ -21,6 +21,7 @@ export const Search = styled.section`
 export const Logo = styled.img`
   margin: 15px;
   width: 50%;
+  margin-left: 50%;
 `;
 
 export const Title = styled(Text)`
