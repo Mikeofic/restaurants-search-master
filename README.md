@@ -1,68 +1,43 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center">
+    <img width='250px' height='125px' alt="Logo Poké Store" title="#logo" src=".github/logo.png" />
+</h2>
 
-## Available Scripts
+# Poké Store
 
-In the project directory, you can run:
+👉 **Veja o App em funcionamento**: https://pokestore-blond.vercel.app/
 
-### `yarn start`
+---
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+A **Poké Store** é um web app que simula uma **loja online** de Pokémons. São **4 lojas** ao todo, em que você pode comprar pokémons de diferentes estilos.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+O app permite que você **filtre pokémons**, veja sua **lista de compras** e **salve os dados localmente**.
 
-### `yarn test`
+A Poké Store foi feita com **ReactJS**, utilizando **JavaScript com Typescript**, e o acesso aos dados dos pokémons é feito pela API **[PokéAPI](https://pokeapi.co)**.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `yarn build`
+## 💻 Desktop
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h5 align="center">
+  <img width='100%' alt="Desktop Thumb" title="#web" src=".github/desktop.png" />
+</h5>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 💾 Instalação
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Você precisará ter o **Yarn** instalado no seu computador. Após instalá-lo:
+1. Clone o Repositório.
+2. Vá até o diretório do Repositório e rode ``yarn`` para instalar as dependências.
+3. Rode ``yarn start`` para iniciar o ReactJS.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🚀 Tecnologias Utilizadas
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- ReactJS.
+- JavaScript/TypeScript.
+- Redux.
+- StyledComponents.
