@@ -1,18 +1,18 @@
 <h2 align="center">
-    <img width='250px' height='125px' alt="Logo Poké Store" title="#logo" src=".github/logo.png" />
+    <img width='250px' height='125px' alt="logo restaurant finder" title="#logo" src=".github/logo.png" />
 </h2>
 
 # Poké Store
 
-👉 **Veja o App em funcionamento**: https://pokestore-blond.vercel.app/
+👉 **Veja o App em funcionamento**: https://restaurant-finder-mike.netlify.app/
 
 ---
 
-A **Poké Store** é um web app que simula uma **loja online** de Pokémons. São **4 lojas** ao todo, em que você pode comprar pokémons de diferentes estilos.
+O Restaurant Finder é um buscador de restaurantes proximos que utiliza a sua localização para mapear os estabelecimentos e te oeferece um resumo.
 
-O app permite que você **filtre pokémons**, veja sua **lista de compras** e **salve os dados localmente**.
+O app permite que você **escolha restaurantes**, veja sua **classificação** e **veja sua localização**.
 
-A Poké Store foi feita com **ReactJS**, utilizando **JavaScript com Typescript**, e o acesso aos dados dos pokémons é feito pela API **[PokéAPI](https://pokeapi.co)**.
+O Finder foi feita com **ReactJS**, utilizando **JavaScript com Redux**, e o acesso aos dados dos restaurantes é feito pela API **Google Maps API**.
 
 ---
 
