@@ -1,7 +1,7 @@
 
 # Restaurant Finder
 
-👉 **Veja o App em funcionamento**: https://restaurant-finder-mike.netlify.app/
+👉 **Veja o App em funcionamento**:  <a href="https://restaurant-finder-mike.netlify.app/" target="_blank">Aqui</a>
 
 ---
 
